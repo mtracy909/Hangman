@@ -38,4 +38,3 @@ The following items I plan to fix, improve, and/or add to this project in the fu
 
 * [ ] Disallow users to input multiple letters at once (if they do so, the first letter is taken as their guess)
 * [ ] Connect the game to a dictionary and randomize the word
-*
